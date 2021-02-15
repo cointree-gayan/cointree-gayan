@@ -1,0 +1,20 @@
+Notes:
+
+
+   1.1. Client web app:
+        Separate web client app is developed using angular
+		Angular services are used to communicate with server side web api
+		TO DO : Hosting client web app to azure app service
+		
+
+   1.2 Web API:
+        ASP.Net Core Web API is used
+		Singleton pattern is used to create httpclient objects in controller methods when communicating with external cointree web API
+        Web API is hosted in Azure as app service with the url "https://cointree.azurewebsites.net"
+		
+   1.3 Source Code Repository:
+        Git repository is created and both client web app and web API projects were uploaded
+        Git url : https://github.com/cointree-gayan/cointree-gayan.git	
+		
+		
+   
