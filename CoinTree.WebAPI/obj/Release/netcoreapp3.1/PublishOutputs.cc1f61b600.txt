@@ -1,0 +1,7 @@
+G:\Gayan\AUS\AUS Interviews\Interviews\Tests\CoinTree\CoinTree\CoinTree.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\CoinTree.WebAPI.exe
+G:\Gayan\AUS\AUS Interviews\Interviews\Tests\CoinTree\CoinTree\CoinTree.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+G:\Gayan\AUS\AUS Interviews\Interviews\Tests\CoinTree\CoinTree\CoinTree.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+G:\Gayan\AUS\AUS Interviews\Interviews\Tests\CoinTree\CoinTree\CoinTree.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\CoinTree.WebAPI.dll
+G:\Gayan\AUS\AUS Interviews\Interviews\Tests\CoinTree\CoinTree\CoinTree.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\CoinTree.WebAPI.deps.json
+G:\Gayan\AUS\AUS Interviews\Interviews\Tests\CoinTree\CoinTree\CoinTree.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\CoinTree.WebAPI.runtimeconfig.json
+G:\Gayan\AUS\AUS Interviews\Interviews\Tests\CoinTree\CoinTree\CoinTree.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\CoinTree.WebAPI.pdb
